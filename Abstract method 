@@ -1,0 +1,10 @@
+//from abs import ABC, abstract method 
+class animal(ABC):
+  @abstractmethod
+     defsound self:
+        pass
+class pos(animal):
+   def eat (self)
+       print ("dog eats food")
+s=dog
+s.eat() 
